@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------
+.\.ipynb_checkpoints//                                      |         0|Wed May  6 21:35:04 2020
+.\.ipynb_checkpoints\lc-checkpoint.py                       |      3362|Wed May  6 21:59:04 2020
+.\.ipynb_checkpoints\lc-v1-checkpoint.py                    |      2543|Wed May  6 21:35:19 2020
+.\.ipynb_checkpoints\lista_carpeta-checkpoint.py            |      2388|Wed May  6 20:58:12 2020
+.\.ipynb_checkpoints\Mision_imposible-checkpoint.ipynb      |        72|Wed May  6 18:36:13 2020
+.\.ipynb_checkpoints\Notas-checkpoint.ipynb                 |      6292|Wed May  6 21:04:57 2020
+.\datos//                                                   |         0|Wed May  6 20:27:04 2020
+.\datos\.ipynb_checkpoints//                                |         0|Wed May  6 20:26:54 2020
+.\datos\Alumnos.txt                                         |         0|Wed May  6 20:26:44 2020
+.\datos\Untitled Folder//                                   |         0|Wed May  6 20:27:17 2020
+.\datos\Untitled Folder\.ipynb_checkpoints//                |         0|Wed May  6 20:27:17 2020
+.\datos\Untitled Folder\asistencia.txt                      |         0|Wed May  6 20:27:09 2020
+.\lc-v1.py                                                  |      2543|Wed May  6 21:35:19 2020
+.\lc.py                                                     |      3362|Wed May  6 21:59:04 2020
+.\lista_carpeta.py                                          |      2388|Wed May  6 20:58:12 2020
+.\Mision_imposible.ipynb                                    |      2533|Wed May  6 18:56:15 2020
+.\Notas.ipynb                                               |      8710|Wed May  6 21:32:58 2020
+.\salida.txt                                                |         0|Wed May  6 21:58:47 2020
+.\__pycache__//                                             |         0|Wed May  6 21:15:28 2020
+.\__pycache__\lc.cpython-37.pyc                             |      1413|Wed May  6 21:15:28 2020
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
